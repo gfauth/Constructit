@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lvRz0tS3PRSFY2Sdvzr9NkDd9kzvu8YjKDTiIne+xmC3us+O7qEJ1qbB++aM0n4UPd82gAaU5U2qUSphS4CRsA==",
+  "success": true,
+  "projectFilePath": "E:\\_Projetos\\Construct IT\\CalculadoraDiaUtil\\CalculadoraDiaUtil\\CalculadoraDiaUtil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

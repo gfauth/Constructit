@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Luan Fauth</Authors>
+    <Product>Calculadora do quinto dia útil do mês</Product>
+    <Description>Projeto contendo resposta para primeira questão dos exercícios passados para contratação Construct IT.</Description>
+  </PropertyGroup>
+
+
+</Project>

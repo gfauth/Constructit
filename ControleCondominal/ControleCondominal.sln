@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControleCondominal", "ControleCondominal\ControleCondominal.csproj", "{D0B9BB98-5E8D-4DF2-AD05-050CA437334E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B9BB98-5E8D-4DF2-AD05-050CA437334E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B9BB98-5E8D-4DF2-AD05-050CA437334E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B9BB98-5E8D-4DF2-AD05-050CA437334E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B9BB98-5E8D-4DF2-AD05-050CA437334E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E55F2E8-A721-44E7-87EF-A417356E816C}
+	EndGlobalSection
+EndGlobal

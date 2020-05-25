@@ -1,0 +1,34 @@
+﻿@model IEnumerable<ControleCondominal.Models.Relatorio>
+
+@{
+    ViewData["Title"] = "Relatorio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Relatorio</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bairro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QtdPets)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Bairro)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QtdPets)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
